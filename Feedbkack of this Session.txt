@@ -1,3 +1,6 @@
+2 AUG 2023
+
+_______________________________________________________________
 * This was a very good session about VCS , Git & GitHub.
 * We got know why & hot to use these.
 * Learnt basic Git commands.
